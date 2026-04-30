@@ -99,4 +99,13 @@ module.exports = {
           message.reply({
             body: `${name}\n${msg}`,
             mentions: arraytag
-          }
+          });
+        }
+      }
+    } catch (err) {
+      console.error(err);
+      activeMurgi.delete(event.threadID);
+      message.reply("Something went wrong!");
+    }
+  }
+};
