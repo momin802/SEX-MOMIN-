@@ -1,12 +1,10 @@
-📄 | Source code of "momin.js":
-
 const axios = require("axios");
 
 let videoIndex = 0;
 
 module.exports = {
   config: {
-    name: "adminmention",
+    name: "farhan_mention",
     version: "21.0.0",
     author: "Farhan-Khan",
     countDown: 0,
@@ -41,7 +39,7 @@ module.exports = {
 
     // 🎬 Video list
     const videos = [
-      "https://files.catbox.moe/q3mjt2.mp4"
+      "https://files.catbox.moe/q3mjt2.mp4",
       "https://files.catbox.moe/pqlni2.mp4"
     ];
 
