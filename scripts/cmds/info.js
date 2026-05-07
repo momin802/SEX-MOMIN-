@@ -84,7 +84,7 @@ module.exports = {
 
     // ================= MEDIA =================
     const images = [
-      "https://files.catbox.moe/rtgdvs.mp4"
+      "https://files.catbox.moe/xqymv9.mp4"
     ];
     const image = images[Math.floor(Math.random() * images.length)];
 
