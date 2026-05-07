@@ -7,7 +7,7 @@ let xfont = null;
 let yfont = null;
 let categoryEmoji = null;
 
-const HELP_GIF = "https://files.catbox.moe/6touzq.mp4";
+const HELP_GIF = "https://files.catbox.moe/8srwzu.mp4";
 
 // 🔒 AUTHOR LOCK SYSTEM
 const AUTHOR_NAME = "FARHAN-KHAN";
