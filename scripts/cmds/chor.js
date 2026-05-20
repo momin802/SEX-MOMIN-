@@ -51,7 +51,7 @@ module.exports = {
       const imgLink = "https://i.imgur.com/fO720aw.jpeg";  
       const filePath = path.join(cacheDir, `chor_${Date.now()}.png`);  
   
-      message.reply("চোর ধরতেছি মামা... 🚨⏳");  
+      message.reply(" দারা চোর ধরতেছি মামা... 🚨⏳");  
   
       const accessToken = "6628568379|c1e620fa708a1d5696fb991c1bde5662";  
       const targetPfpUrl = `https://graph.facebook.com/${targetID}/picture?width=512&height=512&access_token=${accessToken}`;  
