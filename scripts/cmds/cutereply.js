@@ -33,15 +33,15 @@ const last = {};
 // =======================
 const TRIGGERS = [
   {
-    words: ["মমিন", "onik", "momin ", "Momin"],
-    text: "👉আমার বস♻️ 𝐌𝐚͜͡𝐠𝐢𝐁𝐚𝐳 𝐌͡𝐨𝐦𝐢͜𝐍:)>𝟑 এখন বিজি আছে । তার ইনবক্সে এ মেসেজ দিয়ে রাখো ‎‎‎‎‎‎‎‎‎[https://www.facebook.com/profile.php?id=61583978867791] 🔰 ♪√বস ফ্রি হলে আসবে,! 😜🐒",
+    words: ["মমিন", "misran", "momin ", "Momin"],
+    text: "👉আমার বস♻️ 𝐌𝐚͜͡𝐠𝐢𝐁𝐚𝐳 𝐌͡𝐨𝐦𝐢͜𝐍:)>𝟑 এখন বিজি আছে । তার ইনবক্সে এ মেসেজ দিয়ে রাখো ‎‎‎‎‎‎‎‎‎[https://www.facebook.com/profile.php?id=61589173862019] 🔰 ♪√বস ফ্রি হলে আসবে,! 😜🐒",
     images: [
-      "https://i.imgur.com/NHuJmeu.jpeg"
+      "https://i.imgur.com/4b8PtMi.jpeg"
     ]
   },
   {
-    words: ["@রাশি্ঁয়ান কুইন্ঁ", "@alex queen", "@Alex queen"],
-    text: "-আমাকে মেনশন দিয়ে লাভ নাই- কারণ আমি একটা মেসেঞ্জার চ্যাট রোবট,🤖 আমাকে বানানো হয়েছে শুধুমাত্র আপনাদেরকে বিনোদনের জন্য, আমাকে বানিয়েছেন আমার বস momin-😽🫶 [https://www.facebook.com/profile.php?id=61587947897924,!🌺",
+    words: ["@Momin vai", "@momin vai", "@Alex queen"],
+    text: "-আমাকে মেনশন দিয়ে লাভ নাই- কারণ আমি একটা মেসেঞ্জার চ্যাট রোবট,🤖 আমাকে বানানো হয়েছে শুধুমাত্র আপনাদেরকে বিনোদনের জন্য, আমাকে বানিয়েছেন আমার বস momin-😽🫶 [https://www.facebook.com/profile.php?id=61589173862019,!🌺",
     images: [
       "https://i.imgur.com/GQgOU9C.jpeg",
       "https://i.imgur.com/SqrxaTe.jpeg"
