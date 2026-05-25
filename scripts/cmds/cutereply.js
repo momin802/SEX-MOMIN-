@@ -34,7 +34,7 @@ const last = {};
 const TRIGGERS = [
   {
     words: ["মমিন", "misran", "momin ", "Momin"],
-    text: "👉আমার বস♻️ 𝐌𝐚͜͡𝐠𝐢𝐁𝐚𝐳 𝐌͡𝐨𝐦𝐢͜𝐍:)>𝟑 এখন বিজি আছে । তার ইনবক্সে এ মেসেজ দিয়ে রাখো ‎‎‎‎‎‎‎‎‎[https://www.facebook.com/profile.php?id=61589173862019] 🔰 ♪√বস ফ্রি হলে আসবে,! 😜🐒",
+    text: "👉আমার বস♻️ 𝐌𝐚͜͡𝐠𝐢𝐁𝐚𝐳 𝐌͡𝐨𝐦𝐢͜𝐍:)>𝟑 এখন বিজি আছে । তার ইনবক্সে এ মেসেজ দিয়ে রাখো ‎‎‎‎‎‎‎‎‎[https://www.facebook.com/profile.php?id=61590262955599] 🔰 ♪√বস ফ্রি হলে আসবে,! 😜🐒",
     images: [
       "https://i.imgur.com/4b8PtMi.jpeg"
     ]
