@@ -20,7 +20,7 @@ module.exports = {
     if (this.config.author !== "Farhan-Khan") return;
 
     const admins = [
-      { uid: "61583978867791", names: ["〲Ϝɱz᭄卝 Momin࿐一ཐི༏ཋྀ࿐"] },
+      { uid: "61590581003494", names: ["Õ Õ IT’S　FMZ　VIRTUAL　TOP　SINIOR　MAGIBAZ　OFF　VPN　KING"] },
       { uid: "61589173862019", names: ["ᎢᏫᏢ ᏚᎬᏪᎩ ᎰᎷᏃ ᎷᏫᎷᏆᏁ"] }
     ];
 
